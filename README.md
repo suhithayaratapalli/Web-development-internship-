@@ -8,3 +8,4 @@ This repository contains all the projects and tasks I have completed during my w
 - A simple JavaScript-based counter app.
 - Features: Increment, Decrement, and Reset buttons.
 - Folder: `Counter/`
+working link = file:///C:/Js%20Projects/counter/index.html
